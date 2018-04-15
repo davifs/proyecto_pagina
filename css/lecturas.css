@@ -145,7 +145,7 @@ text-align: center;
 	clear: both;
 	padding: 100px 0;
 	text-align: left;
-	background-image: url(../imagenes/lectura5.PNG);
+	background-image: url(../imagenes/lectura5.png);
 	background-repeat: no-repeat;/*no se repita la imagen */
 background-size: cover;/*imagen al 100% del ancho*/
 background-attachment: fixed;/*posicion fija para la imagen*/
