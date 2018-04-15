@@ -1,0 +1,78 @@
+.baner{
+	height: 100%;
+	background-image:url(../imagenes/ban.png);
+background-position: center;
+	background-attachment: contain;
+	background-size: cover;
+	padding-bottom: 500px;
+}
+
+.contenedor-columnas2{
+	width: 80%;
+	margin: auto;
+	text-align:center;
+	
+}
+
+.contenedor-columnas3{
+	width: 60%;
+	margin: auto;
+	
+}
+
+.wap2{
+	
+	margin: auto;
+	background-image:url(../imagenes/ad.png);
+	background-position: right;
+	
+}
+.wap3{
+	
+	margin: auto;
+	background-image:url(../imagenes/ad2.png);
+	background-position: right;
+	
+}
+
+.baner-5{
+	width:100%;
+	padding-top: 30px;
+	background-image:url(../imagenes/bb.png);
+	background-repeat: no-repeat;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	text-align:center;
+	transition: 0.4s;
+	color: #FFF;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.baner-7{
+	width:100%;
+	padding-top: 30px;
+	background-image:url(../imagenes/bb3.png);
+	background-repeat: no-repeat;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	text-align:center;
+	transition: 0.4s;
+	color: #FFF;
+	font-size: 30px;
+	text-transform: uppercase;
+}
+.baner-6{
+	width:100%;
+	padding-top: 30px;
+	background-image:url(../imagenes/bb2.png);
+	background-repeat: no-repeat;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	text-align:center;
+	transition: 0.4s;
+	color: #FFF;
+	font-size: 30px;
+}

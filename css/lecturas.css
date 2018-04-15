@@ -1,0 +1,165 @@
+.lecturas1{
+	width: 100%;
+	clear: both;
+	padding: 100px 0;
+	text-align: left;
+	background-image: url(../imagenes/lectura12.jpg);
+	background-repeat: no-repeat;/*no se repita la imagen */
+background-size: cover;/*imagen al 100% del ancho*/
+background-attachment: fixed;/*posicion fija para la imagen*/
+
+	
+
+}
+.contenido1{
+	width: 90%;
+	margin: auto;
+}
+.c-1 img{
+	
+	float: right;
+	padding: 32px 0;
+	padding-left:30px;
+	font-weight: bold;
+	width: 500px;
+	height: 505px;
+
+}
+
+.color-titulo{
+	color: #fff;
+}
+.color-texto{
+	color: #BDBDBD;
+}
+
+/*segunda seccion*/
+
+.lecturas2{
+	width: 100%;
+	clear: both;
+	padding: 100px 0;
+	text-align: left;
+	
+}
+.contenido2{
+	width: 90%;
+	margin: auto;
+}
+.c-2 h3 img{
+	
+	float: left;
+	
+	padding-right: 30px;
+	font-weight: bold;
+	width: 500px;
+	height: 435px;
+
+
+}
+.c-2 h1, h3{
+	color: #444;
+}
+.baner-lectura{
+background:url(../imagenes/blectura3.jpg);
+float: left;
+width: 100%;
+height: 200px;
+background-repeat: no-repeat;/*no se repita la imagen */
+background-size: cover;/*imagen al 100% del ancho*/
+background-attachment: fixed;/*posicion fija para la imagen*/
+text-align: center;
+}
+
+
+/*tersera seccion*/
+
+.lecturas3{
+	width: 100%;
+	clear: both;
+	padding: 100px 0;
+	text-align: left;
+	background-image: url(../imagenes/lectura7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	
+}
+.contenido3{
+	width: 90%;
+	margin: auto;
+}
+.c-3{
+	padding-left: 50px;
+}
+.c-3 img{
+	
+	padding: 32px 0;
+	padding-right: :30px;
+	font-weight: bold;
+	width: 90%;
+	height: 505px;
+
+}
+
+
+/*cuarta seccion*/
+
+.lecturas4{
+	width: 100%;
+	clear: both;
+	padding: 100px 0;
+	text-align: left;
+
+}
+.contenido4{
+	width: 90%;
+	margin: auto;
+}
+.contenido4 i{
+	padding: 32px 0;
+	padding-right: 30px;
+	
+	float: left;
+	
+
+}
+
+.c-4{
+
+	width: 29%;
+	float: right;
+	padding: 25px 25px;
+
+}
+
+
+
+
+
+
+/*quinta seccion*/
+
+.lecturas5{
+	width: 100%;
+	clear: both;
+	padding: 100px 0;
+	text-align: left;
+	background-image: url(../imagenes/lectura5.PNG);
+	background-repeat: no-repeat;/*no se repita la imagen */
+background-size: cover;/*imagen al 100% del ancho*/
+background-attachment: fixed;/*posicion fija para la imagen*/
+
+}
+.contenido5{
+	width: 80%;
+	margin: auto;
+}
+
+.contenedor-ul{
+	width: 90%;
+	
+	margin: auto;
+	
+	
+}
